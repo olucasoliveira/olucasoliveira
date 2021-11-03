@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Lucas de Oliveira
 
-You can use the [editor on GitHub](https://github.com/olucasoliveira/MyFirstWebPage/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Primeiramente, [me siga no instagram](https://www.instagram.com/oliveira_olucas/) por lá você encontrará fotos motivacionais e muito story com musica e selfie minhas rs. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Quem é Lucas ? 
+
+Estudante de ADS em faculdade federal.
+
+
 
 ### Markdown
 
