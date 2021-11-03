@@ -12,7 +12,7 @@ Primeiramente, [me siga no instagram](https://www.instagram.com/oliveira_olucas/
 
 ### Codando
 
-Meu primeiro cntato com a programação foi com PYTHON 3 
+Meu primeiro contato na programação foi com PYTHON 3 
 
 ```markdown
 Aprendi com o CURSO EM VIDEO do Guanabara
@@ -22,7 +22,7 @@ Aprendi com o CURSO EM VIDEO do Guanabara
 ### Quero trabalhar com FrontEnd
 
 - Trabalho com suporte técnico na Pixeon
-- Esttudo FrontEnd pela UDEMY
+- Estudo FrontEnd pela UDEMY
 
 
 ```
