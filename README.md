@@ -4,38 +4,28 @@ Primeiramente, [me siga no instagram](https://www.instagram.com/oliveira_olucas/
 
 ### Quem é Lucas ? 
 
-Estudante de ADS em faculdade federal.
+- Estudante de ADS em faculdade federal.
+- Amo qualquer tipo de musica 
+- Sou estremamente comunicativo
+- Jogo voleibol
 
 
+### Codando
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Meu primeiro cntato com a programação foi com PYTHON 3 
 
 ```markdown
-Syntax highlighted code block
+Aprendi com o CURSO EM VIDEO do Guanabara
 
-# Header 1
-## Header 2
-### Header 3
+# Sou técnico em eletrônica
+## Hardware é chato
+### Quero trabalhar com FrontEnd
 
-- Bulleted
-- List
+- Trabalho com suporte técnico na Pixeon
+- Esttudo FrontEnd pela UDEMY
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Para mais detalhes sobre minha vida profissinal:  [Entre no meu linkedin](https://www.linkedin.com/in/oliveiraolucas).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/olucasoliveira/MyFirstWebPage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
