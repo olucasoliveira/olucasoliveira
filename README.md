@@ -18,8 +18,7 @@ Meu primeiro contato na programação foi com PYTHON 3
 Aprendi com o CURSO EM VIDEO do Guanabara
 
 # Sou técnico em eletrônica
-## Hardware é chato
-### Quero trabalhar com FrontEnd
+### Quero trabalhar com TI
 
 - Trabalho com suporte técnico na Pixeon
 - Estudo FrontEnd pela UDEMY
