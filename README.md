@@ -5,15 +5,15 @@ Primeiramente, me adicione no seu [LINKEDIN](https://www.linkedin.com/in/oliveir
 # Quem é Lucas ? 
 ```markdown
 
-Profissional com experiência em suporte de software para gestão de saúde RIS e LIS, atuando com X-Clinic, Korus, Central de Laudos
-e Pleres.Net. Formado Técnico Eletrônico pela Etec Lauro Gomes, e graduando em Analise e Desenvolvimento de Sistemas no Instituto 
+Profissional com experiência em suporte de software para gestão de saúde RIS e LIS, atuando com 
+X-Clinic, Korus, Central de Laudose Pleres.Net. Formado Técnico Eletrônico pela Etec Lauro Gomes, 
+e graduando em Analise e Desenvolvimento de Sistemas no Instituto 
 Federal de São Paulo.
 
-Como estudante, fiz pré-vestibular na UFABC e consegui aprovação em algumas das melhores universidades do país, exemplo, a UNESP,
-aonde fui aprovado em engenharia com média superior a 700 pontos no ENEM.
+Como estudante, fiz pré-vestibular na UFABC e consegui aprovação em algumas das melhores universidades
+do país, exemplo, a UNESP, aonde fui aprovado em engenharia com média superior a 700 pontos no ENEM.
 
 ```
-
 
 # Disciplinas cursadas na faculdade 
 
@@ -26,7 +26,8 @@ aonde fui aprovado em engenharia com média superior a 700 pontos no ENEM.
 - Matemática para Informática
 - Recursos Humanos em Tecnologia da Informação
 - Administração de Empresas
-
+```
+```markdown
 # Segundo semestre: 
 - Engenharia de Software 2
 - Sistemas Operacionais
