@@ -14,6 +14,19 @@ Como estudante, fiz pré-vestibular na UFABC e consegui aprovação em algumas d
 do país, exemplo, a UNESP, aonde fui aprovado em engenharia com média superior a 700 pontos no ENEM.
 
 ```
+# Conhecimentos 
+```markdown
+- Banco de Dados Relacional
+- SQLServer, MySQL
+- Linguagem SQL
+- Programação Orientada a Objetos 
+- Linguagens: JAVA, PYTHON, C 
+- IDE: VSCdode, Eclipse, DevC++, PyCharm
+- Sistemas Operacionais: Windows, Linux Basico
+- Organização de Arquitetura de Hardware
+- Conhecimentos de eletronica: Montagem de Circuitos, Instalação eletrica, Componentes eletronicos 
+
+```
 
 # Disciplinas cursadas na faculdade 
 
