@@ -21,7 +21,7 @@ do país, exemplo, a UNESP, aonde fui aprovado em engenharia com média superior
 - Linguagem SQL
 - Programação Orientada a Objetos 
 - Linguagens: JAVA, PYTHON, C 
-- IDE: VSCdode, Eclipse, DevC++, PyCharm
+- IDE: VSCode, Eclipse, DevC++, PyCharm
 - Sistemas Operacionais: Windows, Linux Basico
 - Organização de Arquitetura de Hardware
 - Conhecimentos de eletronica: Montagem de Circuitos, Instalação eletrica, Componentes eletronicos 
