@@ -1,6 +1,6 @@
 <!-- Cabeçalho -->
 <p align="center">
-  <img src="https://github.com/seu-nome-de-usuario/avatar.png" alt="Foto de Perfil" width="150" height="150">
+  <img src="https://github.com/olucasoliveira/avatar.png" alt="Foto de Perfil" width="150" height="150">
 </p>
 <h1 align="center">Lucas de Oliveira</h1>
 <h3 align="center">Engenheiro de Dados na BRQ Digital Solutions</h3>
