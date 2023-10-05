@@ -1,7 +1,4 @@
 <!-- Cabeçalho -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/91337785?v=4" alt="Foto de Perfil" width="150" height="150">
-</p>
 <h1 align="center">Lucas de Oliveira</h1>
 <h3 align="center">Engenheiro de Dados na BRQ Digital Solutions</h3>
 
