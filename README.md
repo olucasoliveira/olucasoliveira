@@ -1,6 +1,6 @@
 <!-- Cabeçalho -->
 <h1 align="center">Lucas de Oliveira</h1>
-<h3 align="center">Engenheiro de Dados na [@BRQ](https://github.com/BRQ) | Banco Santander</h3>
+<h3 align="center">Engenheiro de Dados na @BRQ| Banco Santander</h3>
 
 <!-- Ícones de Redes Sociais -->
 <p align="center">
