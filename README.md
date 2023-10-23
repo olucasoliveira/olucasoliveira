@@ -9,6 +9,10 @@
   </a>
 </p>
 
+## Contribuições
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olucasoliveira)] ![GitHub stats](https://github-readme-stats.vercel.app/api?username=olucasoliveira&show_icons=true&count_private=true) 
+
 ## Sobre Mim 🚀
 
 Profissional de Engenharia de Dados com ampla experiência em Big Data, PySpark, Python e Azure. Especializado em ETL, interoperabilidade de sistemas, serviços de mensageria e integração. Trabalho com servidores, redes e computação em nuvem. Apaixonado por desafios tecnológicos e busca constante por aprimoramento.
