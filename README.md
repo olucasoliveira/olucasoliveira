@@ -2,8 +2,11 @@
 
 ## Experiência Profissional
 
+**Arquiteto de Soluções**  
+*Rede D'or São Luiz* | Set 2024 - Momento
+
 **Engenheiro de Dados**  
-*BRQ Digital Solutions* | Set 2023 - Atualmente  
+*BRQ Digital Solutions* | Set 2023 - Set 2024
 - Migração e modernização de pipelines de dados de investimentos de clientes na AWS, utilizando ferramentas como AWS Glue, Step Functions, Lambda, S3 e PySpark.
 - Suporte na arquitetura cloud, garantindo performance e escalabilidade no ambiente AWS para o extenso volume de dados de investimento ingeridos.
 - Provisionamento de recursos AWS usando Terraform para criar pipelines ETL para diversos produtos de investimento.
@@ -30,7 +33,7 @@
 
 ## Formação Acadêmica
 
-- Analise e Desenvolvimento de Sistemas - Instituto Federal de São Paulo (Cursando último semestre)
+- Analise e Desenvolvimento de Sistemas - Instituto Federal de São Paulo (Completo)
 - Técnico em Eletrônica - Escola Técnica Estadual Lauro Gomes (Completo)
 
 ## Contato
